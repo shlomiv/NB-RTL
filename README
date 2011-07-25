@@ -2,4 +2,12 @@ This module is intended for projects that requires an RTL frontend. This is quit
 
 Here is the NB issue i was commenting on http://netbeans.org/bugzilla/show_bug.cgi?id=96333
 
-you can view the wiki page to see a screenshot
+you can view the wiki page to see a screenshots.
+
+What does this module support so far:
+1. RTL Tabs
+2. RTL Dialogs
+
+What we plan to support soon:
+1. RTL Menus and Toolbars
+
