@@ -1,3 +1,5 @@
-a module that turns NB's main tab controls and menus right to left
+This module is intended for projects that requires an RTL frontend. This is quite a naive attempt at making the tab system show right to left.
 
-http://bits.netbeans.org/dev/javadoc/org-openide-windows/overview-summary.html
+Here is the NB issue i was commenting on http://netbeans.org/bugzilla/show_bug.cgi?id=96333
+
+you can view the wiki page to see a screenshot
